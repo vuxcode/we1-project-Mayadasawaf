@@ -78,30 +78,26 @@ padding-left: 0;
 }
     
 
-
+footer {
+  
+    color: #070606;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+  
+      display:flex;
+      justify-content: space-evenly;
+      margin: 10px;
+      border: solid #000; 
+      border: 10px;
+  }
 
 
 
 
 
         
-    form{
-        margin: 50px auto;
-        max-width: 400px;
-    }
-    fieldset{
-        padding: 20px;
-    }
-    label,
-    input{
-        display: block;
     
-    }
-    input,
-    textarea{
-        width: 100%;
-
-    }
     nav{
         max-height: 300px;
         background-color: rgb(24, 98, 23);
@@ -117,12 +113,13 @@ nav a {
   color: #000;
   font-size: 20px;
 }
-footer {
-  background-color: #e8e3e3;
-  color: #070606;
-  padding: 20px;
-  text-align: center;
-}
+
+    
+       
+   
+
+
+
 menu -item {
     display:flex;
     align-items: center;
@@ -204,6 +201,17 @@ button{
 .contener{
     align-items: center;
 }
+.back{
+   
+    float:right;
+    margin:10px;
+    border:block,black ;
+    display: block;
+    width:1200px;
+    display: block;
+    padding: 40px;
+
+}
 
 .kobba{
   
@@ -216,17 +224,55 @@ button{
 }
 
 
-.footer{
-    max-height: 300px;
-        background-color: rgb(24, 98, 23);
-       display:flex;
-       justify-content: space-evenly;
-       margin: 10px;
-       border: solid #000; 
+
+
+
+.post{
+    
+    
+    width: 50%;
+    float: left;
+    padding: 15px;
 }
+.about{
+    
+    
+    width:50% ;
+    float: right;
+   display: flex;
+   margin: 10px;
+   border: 10px;
+   padding: 35px;
+    
+}
+*{
+    box-sizing:border-box;
+    margin:1px ;
+    padding:0px ;
+   
+}
+form{
+    margin: 50px auto;
+    max-width: 400px;
+}
+fieldset{
+    padding: 20px;
+  
+   
+}
+label,
+input{
+    display: block;
 
+}
+input,
+textarea{
+    width: 100%;
+}
+.footer{
+    
+ margin: 10px;
+ border:block, black;
+ width: 100%;
 
-.contact{
-    display: flex;
-    justify-content: space-around;
 }
