@@ -1,17 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mnsMJARJ)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10825755&assignment_repo_type=AssignmentRepo)
-# Project Instructions
-
-Follow the instructions here: https://vuxcode.netlify.app/new/we1/lessons/major-project-brief/
-
-The aim of the project is to show how you have developed your website, the steps you have taken and the problems you have solved!
-
-REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJECT!
-
-# Project Notes
-
-> You can use this section of the file to keep notes about your project as you work on it
 
 # Project Summary
 
-> Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
+The project is a page for Syrian recipes.
+ It consists of three sections: the main course section, the salad section, and the soup section. Each section has nine recipes,
+ with three recipes per section including a photo, ingredients, and preparation method. 
+ The ingredients are usually enough for four people. Users can contact the website administrator and send any inquiries they want. 
+ The page is written in English.
+
+
+
+
+
+# Project Notes
+
+The project took more than thirty hours to execute due to multiple modifications that were made to match 
+the original picture which I sent by the teacher at the beginning.
+Many difficulties were faced concerning the characteristics of each component of the page. 
+Initially, I searched for suitable pictures that I modified using Paint and then
+searched for recipes, which took time to be translated from Arabic to English.
+The page's  titled is in Swedish, although the entire content is in English. 
+I divided the project time into five hours for pictures and research 
+and the rest for modifications and properties.
+Every time I write new code, new problems arise, either from writing the code wrong,
+ a specific attribute conflicting with others, or rewriting an attribute multiple times.
+
+
+
+
